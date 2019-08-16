@@ -6,7 +6,7 @@ About me: [I know very little about CS](http://neillimaye.com/), Programming is 
 
 [BetterTempTool](https://neillimaye.github.io/bettertemptool) - A ReactJS tool for medical marijuana patients to optimize their vaporizer use (Currently integrating Redux into it)
 
-[BetterTempTool-Redux Rewrite](https://github.com/neillimaye/btt-redux) - Source code only, prototype coming soon - BetterTempTool rewritten with a Redux backend for added functionality & expandability (like holy crap so many opportunities)
+[BetterTempTool-Redux Rewrite](https://github.com/neillimaye/btt-redux) - Source code only since Github pages doesn't support any backends, prototype coming soon - BetterTempTool rewritten with a Redux backend for added functionality & expandability 
 
 [Project Strauch](https://github.com/neillimaye/projectstrauch) - Source code only - Annotated Django & React tutorials to make them comprehensible from the source code
 
