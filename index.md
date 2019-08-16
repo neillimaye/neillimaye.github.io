@@ -9,10 +9,10 @@
 
 Unity Game collection - A collection of games I built from Illinois' CS 199-GAM class
 
-[Roll A Ball] (https://github.com/neillimaye/web_game)
+[Roll A Ball](https://github.com/neillimaye/web_game)
 
-[Roll A Ball V2 - way harder to build] (https://github.com/neillimaye/HarderRollV2)
+[Roll A Ball V2 - way harder to build](https://github.com/neillimaye/HarderRollV2)
 
-[Space Shooter - surprisingly easier than Roll A Ball V2] (https://github.com/neillimaye/SpaceShooter)
+[Space Shooter - surprisingly easier than Roll A Ball V2](https://github.com/neillimaye/SpaceShooter)
 
-[Tanks - Harder than Space Shooter but still easier than Roll A Ball V2] (https://github.com/neillimaye/Tanks)
+[Tanks - Harder than Space Shooter but still easier than Roll A Ball V2](https://github.com/neillimaye/Tanks)
