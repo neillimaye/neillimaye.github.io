@@ -12,7 +12,7 @@ About me: [I know very little about CS](http://neillimaye.com/), Programming is 
 
 [Blockchain Lightbulb](https://github.com/neillimaye/lightbulb-blockchain) - Source code only - A simple React application running on an Ethereum blockchain (powered by ganache) using the Truffle JS library. It updates the ledger every time a button is clicked. Simple functionality.
 
-Unity Game collection  - A collection of games I built from Illinois' CS 199-GAM class - Currently linked to the github repo with the code unity exports, but I was able to host them on github pages before so I'll get that done after I finish 
+Unity Game collection  - A collection of games I built from Illinois' CS 199-GAM class 
 
 [Roll A Ball](https://neillimaye.github.io/web_game)
 
