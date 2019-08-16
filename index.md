@@ -6,6 +6,8 @@ About me: [I know very little about CS](http://neillimaye.com/), Programming is 
 
 [BetterTempTool](https://neillimaye.github.io/bettertemptool) - A ReactJS tool for medical marijuana patients to optimize their vaporizer use (Currently integrating Redux into it)
 
+[BetterTempTool-Redux Rewrite](https://github.com/neillimaye/btt-redux) - Source code only, prototype coming soon - BetterTempTool rewritten with a Redux backend for added functionality & expandability (like holy crap so many opportunities)
+
 [Project Strauch](https://github.com/neillimaye/projectstrauch) - Source code only - Annotated Django & React tutorials to make them comprehensible from the source code
 
 [Blockchain Lightbulb](https://github.com/neillimaye/lightbulb-blockchain) - Source code only - A simple React application running on an Ethereum blockchain (powered by ganache) using the Truffle JS library. It updates the ledger every time a button is clicked. Simple functionality.
