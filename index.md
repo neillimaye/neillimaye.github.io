@@ -14,10 +14,10 @@ About me: [I know very little about CS](http://neillimaye.com/), Programming is 
 
 Unity Game collection  - A collection of games I built from Illinois' CS 199-GAM class - Currently linked to the github repo with the code unity exports, but I was able to host them on github pages before so I'll get that done after I finish 
 
-[Roll A Ball](https://github.com/neillimaye/web_game)
+[Roll A Ball](https://neillimaye.github.io/web_game)
 
-[Roll A Ball V2 - way harder to build](https://github.com/neillimaye/HarderRollV2)
+[Roll A Ball V2 - way harder to build](https://neillimaye.github.io/HarderRollV2)
 
-[Space Shooter - surprisingly easier than Roll A Ball V2](https://github.com/neillimaye/SpaceShooter)
+[Space Shooter - surprisingly easier than Roll A Ball V2](https://neillimaye.github.io/SpaceShooter)
 
-[Tanks - Harder than Space Shooter but still easier than Roll A Ball V2](https://github.com/neillimaye/Tanks)
+[Tanks - Harder than Space Shooter but still easier than Roll A Ball V2](https://neillimaye.github.io/Tanks)
