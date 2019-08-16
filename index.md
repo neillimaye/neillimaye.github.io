@@ -1,8 +1,9 @@
 ## Welcome to my Portfolio Hub
 
-###About me: [I know very little about CS](http://neillimaye.com/), Programming is a creative outlet for me
-
 ### Not much to see here... yet, but take a look:
+
+About me: [I know very little about CS](http://neillimaye.com/), Programming is a creative outlet for me
+
 [BetterTempTool](https://neillimaye.github.io/bettertemptool) - A ReactJS tool for medical marijuana patients to optimize their vaporizer use (Currently integrating Redux into it)
 
 [Project Strauch](https://github.com/neillimaye/projectstrauch) - Source code only - Annotated Django & React tutorials to make them comprehensible from the source code
