@@ -4,9 +4,9 @@
 
 About me: AE by education, developer by passion.
 
-[BetterTempTool](https://neillimaye.github.io/bettertemptool) - A ReactJS tool for medical marijuana patients to optimize their vaporizer use (Currently integrating Redux into it)
+[BetterTempTool](https://neillimaye.github.io/thebettertemptool) - A ReactJS tool for medical marijuana patients to optimize their vaporizer use (Currently integrating Redux into it)
 
-[BetterTempTool-Redux Rewrite](https://neillimaye.github.io/btt-redux/) - BetterTempTool rewritten with Redux for added functionality & expandability. The big new feature is the ability to change the strain being analyzed, a more streamlined file structure, and a data structure to that makes adding different strains way easier.
+[BetterTempTool-Redux Rewrite](https://neillimaye.github.io/abettertemptool/) - BetterTempTool rewritten with Redux for added functionality & expandability. The big new feature is the ability to change the strain being analyzed, a more streamlined file structure, and a data structure to that makes adding different strains way easier.
 
 [Project Strauch](https://github.com/neillimaye/projectstrauch) - Source code only - Annotated Django & React tutorials to make them comprehensible from the source code
 
